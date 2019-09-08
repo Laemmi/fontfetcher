@@ -1,8 +1,5 @@
 <?php
 /**
- * Copyright 2007-2018 Andreas Heigl/wdv Gesellschaft für Medien & Kommunikation mbH & Co. OHG
- *
- *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),
  * to deal in the Software without restriction, including without limitation
@@ -21,12 +18,12 @@
  * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
  * IN THE SOFTWARE.
  *
- * @category    fontfetcher
- * @author      Michael Lämmlein <m.laemmlein@wdv.de>
- * @copyright   ©2007-2018 Andreas Heigl/wdv Gesellschaft für Medien & Kommunikation mbH & Co. OHG
- * @license     http://www.opensource.org/licenses/mit-license.php MIT-License
- * @version     3.1.0
- * @since       24.05.18
+ * @category   fontfetcher
+ * @author     Michael Lämmlein <laemmi@spacerabbit.de>
+ * @copyright  ©2018 laemmi
+ * @license    http://www.opensource.org/licenses/mit-license.php MIT-License
+ * @version    1.0.0
+ * @since      24.05.18
  */
 
 namespace Laemmi\FontFetcher\Client;
